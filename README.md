@@ -11,7 +11,7 @@ do the following:</p>
 <li>find the sum of the values of three variables.</li>
 <li>plot the graph of a line for varying slopes and y-intercepts</li>
 <li>create a scatter plot of n points where the y-coordinate 
-is taken from the discrete uniform distributions of integers less than 20, and 
+is taken from the discrete uniform distribution of integers less than 20, and 
 display the regression line, residuals, equation, and correlation coefficient.
 </li>
 </ul>
